@@ -1,6 +1,6 @@
 # YOUR FEATURE — Serve (Outfit Planner)
 
-Welcome. The UI shell and seed wardrobe already look intentional. Your job is to finish the outfit builder so someone can filter pieces, assemble a named look, save it, and manage it later.
+**Feature to implement.** The UI shell and seed wardrobe already look intentional. Own the outfit builder so someone can filter pieces, assemble a named look, save it, and manage it later.
 
 ---
 
@@ -37,7 +37,7 @@ Search the codebase for `TODO(your-name)` — each comment points back to a step
 
 ---
 
-## Hints (point, don’t paste a solution)
+## Implementation notes
 
 - `loadLooks()` and the `SavedLook` type are ready — use them; don’t invent a second storage key.
 - `MOODS` and `wardrobeSeed` live in `src/data/wardrobe.ts`. Derive unique occasion values from the seed if you want a chip list without hardcoding.
@@ -70,7 +70,7 @@ You're done when…
 
 ---
 
-## Stretch (if you finish early)
+## Optional extensions
 
 - Rename a look inline on `/looks` (edit-in-place via `saveLook` or a small `updateLook` helper).
 - Show piece names/swatches more richly on each saved look card, or deep-link “edit this look” back into the builder with pieces pre-selected.

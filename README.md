@@ -22,7 +22,7 @@ Opens on Vite (default `http://localhost:5173`).
 
 **Start here → [`YOUR_FEATURE.md`](./YOUR_FEATURE.md)**
 
-That doc has the full beginner checklist: goal, files to open, numbered steps, hints, acceptance criteria, demo script, and stretch ideas.
+That doc has the ownership checklist: goal, files to open, numbered steps, implementation notes, acceptance criteria, demo script, and stretch ideas.
 
 In short: finish the outfit builder — mood **and** occasion filters, named looks in `localStorage`, delete on Saved looks. Search the codebase for `TODO(your-name)` (each comment references a step number).
 
